@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SandhyaChinnala
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Node JS
-- 💞️ I’m looking to collaborate on ...
+- Programming Languages : Python, JavaScript
+- Technical Skills : HTML, CSS, SQL- MYSQL, SQLite.
+- 🌱 I’m currently learning Node JS,Express Js,REST API,React JS
 - 📫 LinkedIn to reach me --> https://www.linkedin.com/in/chinnala-sandhya-rani-972b42217
 
 <!---
