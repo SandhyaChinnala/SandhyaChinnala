@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @SandhyaChinnala
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, Data Analysis, Data Engineering, BigData Engineer
+- Technologies : BigData - Hadoop, HDFS, HIVE, SQOOP, PySpark, Spark SQL, Power BI, AZURE
 - Programming Languages : Python, JavaScript
-- Query Language : MySQL,
-- Technical Skills : HTML, CSS, SQL- MYSQL, SQLite.
-- 🌱 I’m currently learning MySQL, Power BI, Linux, 
-- 🌱 I’m currently learning Node JS,Express Js,REST API,React JS
+- Query Language : MySQL, HQL
+- Technical Skills : HTML, CSS, SQL- MYSQL,
+- 🌱 I’m currently learning Azure DataBricks, ADF, ADLS, DataLake, MySQL, Power BI, Linux, Tableau
 - 📫 LinkedIn to reach me --> https://www.linkedin.com/in/chinnala-sandhya-rani-972b42217
 
 <!---
