@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @SandhyaChinnala
-- 👀 I’m interested in Data Science, Data Analysis, Data Engineering, BigData Engineer
-- Technologies : BigData - Hadoop, HDFS, HIVE, SQOOP, PySpark, Spark SQL, Power BI, AZURE
+- 👀 I’m currently working as Data Analyst at QXImpact
 - Programming Languages : Python
 - Query Language : SQL
-- Technical Skills :SQL- MYSQL,SQL Server
-- 🌱 I’m currently learning Azure DataBricks, ADF, ADLS, DataLake, MySQL, Power BI, Linux, Tableau
+- Technical Skills :SQL- MYSQL,SQL Server, Python , PySpark, Azure DataBricks, ADF, ADLS, DataLake, MySQL, Power BI, Tableau
 - 📫 LinkedIn to reach me --> https://www.linkedin.com/in/sandhyachinnala
 
 <!---
